@@ -512,16 +512,16 @@
         },
         {
             "name": "etiennebel/livewire-buttons",
-            "version": "1.0.0",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/EtienneBel/building-your-own-laravel-packages.git",
-                "reference": "300cb7e0a42981070936154583932f79ab0a282a"
+                "reference": "f661fdfb85db0c77bd080b406355e00adc34a7df"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/EtienneBel/building-your-own-laravel-packages/zipball/300cb7e0a42981070936154583932f79ab0a282a",
-                "reference": "300cb7e0a42981070936154583932f79ab0a282a",
+                "url": "https://api.github.com/repos/EtienneBel/building-your-own-laravel-packages/zipball/f661fdfb85db0c77bd080b406355e00adc34a7df",
+                "reference": "f661fdfb85db0c77bd080b406355e00adc34a7df",
                 "shasum": ""
             },
             "require": {
@@ -557,9 +557,9 @@
             "description": "A Livewire Button component with Tailwind CSS",
             "support": {
                 "issues": "https://github.com/EtienneBel/building-your-own-laravel-packages/issues",
-                "source": "https://github.com/EtienneBel/building-your-own-laravel-packages/tree/v1.0.0"
+                "source": "https://github.com/EtienneBel/building-your-own-laravel-packages/tree/v1.0.2"
             },
-            "time": "2024-10-22T11:15:58+00:00"
+            "time": "2024-10-22T11:30:11+00:00"
         },
         {
             "name": "fruitcake/php-cors",

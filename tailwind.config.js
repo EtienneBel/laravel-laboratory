@@ -8,6 +8,7 @@ export default {
         './resources/**/*.blade.php',
         './resources/**/*.js',
         './resources/**/*.vue',
+        "./vendor/etiennebel/livewire-buttons/src/views/*.blade.php"  // Add this line
     ],
     theme: {
         extend: {
